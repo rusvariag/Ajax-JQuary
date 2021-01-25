@@ -1,0 +1,26 @@
+#headerLogo {
+    text-decoration: solid;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+span {
+    text-decoration: solid;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
+.row div {
+    padding: 5px;
+}
+nav {
+    margin: 10px;
+}
+.alert {
+    text-align: center;
+}
+.card-img {
+    width: 100%;
+}
